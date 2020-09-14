@@ -1,13 +1,13 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace TestForMainApp
+namespace TestX
 {
     [TestClass]
     public class UnitTest1
     {
         [TestMethod]
-        [TestCategory("Simple Tests 3")]
-        public void TestMethod3C()
+        [TestCategory("Simple Tests 2")]
+        public void TestMethod2B()
         {
             Assert.IsTrue(true);
         }
