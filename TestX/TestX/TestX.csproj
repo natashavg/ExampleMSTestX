@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MSTestX.UnitTestRunner" Version="1.2.1" />
+    <PackageReference Include="MSTestX.UnitTestRunner" Version="1.1.2" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1364" />
   </ItemGroup>
 </Project>
